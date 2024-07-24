@@ -1,0 +1,16 @@
+# unignore in file picker and global search
+!.gitignore
+!.env
+
+# ignore these files and folders
+.gitattributes
+.github/
+
+node_modules
+
+vendor
+cache
+
+venv
+
+img

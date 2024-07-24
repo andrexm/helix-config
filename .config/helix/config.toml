@@ -1,0 +1,5 @@
+theme = "github_dark"
+
+[editor.file-picker]
+hidden = true
+git-ignore = true

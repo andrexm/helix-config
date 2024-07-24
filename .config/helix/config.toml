@@ -1,4 +1,13 @@
 theme = "github_dark"
+# theme = "dracula"
+
+# [editor]
+# line-number = "relative"
+
+# [editor.cursor-shape]
+# insert = "underline"
+# normal = "block"
+# select = "block"
 
 [editor.file-picker]
 hidden = true

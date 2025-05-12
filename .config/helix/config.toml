@@ -1,11 +1,13 @@
 theme = "github_dark"
 # theme = "dracula"
 
-# [editor]
+[editor]
 # line-number = "relative"
+mouse = false
+# bufferline = "multiple"
 
-# [editor.cursor-shape]
-# insert = "underline"
+[editor.cursor-shape]
+insert = "bar"
 # normal = "block"
 # select = "block"
 
